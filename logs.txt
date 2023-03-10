@@ -1,0 +1,14 @@
+Guess:3,count:17,response:yes
+Guess:7674,count:13,response:yes
+Guess:9999,count:13,response:yes
+Guess:68744,count:14,response:yes
+Guess:1,count:1,response:yes
+Guess:15,count:1,response:yes
+Guess:9999999999,count:33,response:yes
+Guess:24999,count:16,response:yes
+Guess:3,count:9,response:yes
+Guess:333,count:9,response:yes
+Guess:66,count:5,response:yes
+Guess:100,count:7,response:yes
+Guess:666,count:9,response:yes
+Guess:6668,count:13,response:yes
